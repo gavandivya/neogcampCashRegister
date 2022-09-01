@@ -1,3 +1,10 @@
+# Cash Register Manager
+
+
+Here is the UI of Cash Register Manager App
+![This is an image](https://github.com/gavandivya/neogCampPortfolio/raw/main/images/cashmanagerr.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
